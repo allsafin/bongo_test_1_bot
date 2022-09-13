@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bongotestbot",
+  "private_key_id": "da41e686fad5501dee8a4d38a81a10e999b8d98a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCcpUC8FqeQJsee\n0qjY/rPd+6Tc6ywSBRFtrEwiSi7MSGKFmKleKaFLPDWeHnaPoBUxDB3ltxSqQdNn\nRgWmvPbKGpnANUfF4R2usgutxtRE84PpxuEXqprgZBh83wU2m9+MOX+pn+/9oyK7\n33zbPINb6UmQP/WxhNKMZZ6toA2xCtYCmp/WsmjdeKZXorIsowpnR/I/eaovaWST\n0zAaC1aFnoI0qS3peRpXf01m4fVJmkDtba3q9Yxzipr3WyF+VPoNrTQLCjrdQvOV\nPHPcuFmAqOAYDIK8ZFfwigBeg6cO+MdzIcBkwX904Tb4x6ZSyVaM+PlvuuaarKOG\nvU3GG+lDAgMBAAECggEADEW8JSBHP3lyUUSi2uFVmTIib/ZyzPSdsXB6xIL4WKPh\nKCNWPZzYWKsebkVnt4fssRuIahtmYJJorCIlxjLuyNW9rvvdpCinaSzk0lgOAFrt\nvk6JCxAgMy1UZ9AXOfiLUpKcqF7x7/asfXiccRa0GerUixsftik4T6yUenjcKb8W\nszGS2jTAGbcq/8fuE4T66w2fyDiTyxVOgqNQs7V4WTC7L/WBOzOpQ4TKfDjHRzBC\n9ufyx2rKw5Rbu23GlT1NLwLMWzIuTLOkmVPDbN/bcBXWUX70s/i6tuTzA8x8xP82\nOoqAgK2UWfKiVDQA52JPBZHFSnU2s8Vqe3cMbNUFsQKBgQDNCYdNN1YfJeG3ugD+\nR2u023BuCXr0BOppt8uhF1GneH6qCRzuF0uQwYIF5PNWZBfJ4OraJCZ6VvDE3vYs\n6ys7znE7oQwL5mS2GgozliYKYT04qLXgIIMND85uL1FVzms6Ih1TLk575DQ7MdTx\nQNVpHNDO1Gg5Semh1uZUCk8NcwKBgQDDlJJJL2wgtcGgHZkIzrO8J2yT2XBp8uYC\nKqP/o/XJJPPzKL8FYE5FfqcZI2L9usdWW6qONJHJBm6+JhSIVKVY0ZIbqhwGL4kX\nXZypfuw9IGdrvMFl3A071to9HOX0il6sam8MJ1Ai4AbXFtSJku1NDGZY6gZcMirf\n8DsY837A8QKBgFki2lJES0lxQ4aG82WYEQfoGiGMN4qcFHhvMbRPmezvYklzesM7\nF1vP9EGxveQB0aGvCQpaiuvGnhdIQsdWWU4/ulRM+Bq4R3IvMd4pWVJL4byfA6pz\nF+X2yCx4n6ho+46jRBJkYDRWCirtyAA1ylFO+KviBYlaS5pS/YDtll5nAoGBAInt\nWwT1xqGCzJwog2Ysr6B/hRj3fUmanQ7mF2YPsSQ7RTc0gxI9irWDzj/yLruVX0LN\nvogvFqjYOn0qycwjNcBfe1S7MKxEFcA+ql72PZAWLBlUsmctOr/6k0oJ+Tnt4zpg\njRPbHa6aovhJB3ZGAcgWeI8362hVkNsAxgygm8FhAoGAFefevqGz9rQQjaldS2wN\noCcaSRMv/YQ87R1Qpog2pZSFUnsbDuy1Glu6+tDN4dKDqqZEcY3qQTfVGd+LEmP9\n063Cb2NuC+Cun2p9ArVkoxwuerxjYSbx7CH7tl2MN2X7KThz6hUNmPARUTogPoZD\nQdwp76jzhq7+vwFwby39XaY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-st3ryflfxuex0-fpst7xb376og@bongotestbot.iam.gserviceaccount.com",
+  "client_id": "106600224815709936405",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-st3ryflfxuex0-fpst7xb376og%40bongotestbot.iam.gserviceaccount.com"
+}
